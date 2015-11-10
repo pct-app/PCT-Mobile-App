@@ -6,3 +6,4 @@ functionalities:
 - Web-Scraping
 - Automated Schedule Builder (for PCT scheduling)
 - Bluetooth-computer connectivity
+- Possible QR codes?
